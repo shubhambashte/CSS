@@ -1,0 +1,16 @@
+/* .static{
+    border: 1px solid green;
+    position: static;
+} */
+/* .relative{
+    border: 1px solid greenyellow;
+    position: relative;
+} */
+/* .fixed{
+    border: 1px solid goldenrod;
+    position: fixed;
+} */
+.sticky{
+    border: 1px solid mediumseagreen;
+    position: sticky;   
+}
