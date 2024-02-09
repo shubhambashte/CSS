@@ -1,0 +1,20 @@
+/* .center{
+    margin: auto;
+    text-align: center;
+    width: 100px;
+    padding: 5px;
+    border:  1px solid green;
+} */
+/* img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+.image1{
+    float: left;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
