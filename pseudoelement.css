@@ -1,0 +1,24 @@
+/* p::first-line{
+    color: tomato;
+} */
+/* p::first-letter{
+    color: steelblue;
+    font-size: xx-large;
+} */
+/* p::first-line{
+    color: yellowgreen;
+    font-size: x-small;
+
+}
+p::first-letter{
+    color: violet;
+    font-size: xx-small;
+} */
+/* h1::after{
+    content: url(20.webp);
+    
+} */
+::selection {
+    color: blueviolet;
+    background: yellow;
+  }

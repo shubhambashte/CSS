@@ -1,0 +1,31 @@
+/* a.highlight:hover{
+    color: #fff000;
+    font-size: 25px;
+
+
+} */
+/* div {
+    background-color: royalblue;
+    color: white;
+    padding: 25px;
+    text-align: center;
+  }
+  
+  div:hover {
+    background-color: magenta;
+  } */
+
+  /* p {
+    display: none;
+    background-color: chartreuse;
+    padding: 20px;
+  }
+  div:hover p {
+    display: block;
+  } */
+  /* p:first-child {
+    color: darkgoldenrod;
+  } */
+  q:lang(no) {
+    quotes: "$" "$";
+  }
