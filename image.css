@@ -1,0 +1,18 @@
+div.Gallery{
+    margin: 5px;
+    border: 1px solid rgb(207, 118, 2);
+    float: left;
+    width: 300px;
+}
+div.Gallery:hover {
+    border: 1px solid rgb(0, 0, 0);
+}
+div.Gallery img {
+    width: 100%;
+    height: auto;
+}
+  
+div.descript {
+    padding: 25px;
+    text-align: left;
+}
