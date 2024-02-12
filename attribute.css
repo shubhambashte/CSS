@@ -1,0 +1,21 @@
+/* a[target] {
+    background-color: red;
+  } */
+  /* a[target="_blank"] {
+    background-color: goldenrod;
+  } */
+  /* [title~="rose"] {
+    border: 5px solid yellow;
+  } */
+  input[type="text"] {
+    width: 250px;
+    display: block;
+    margin-bottom: 20px;
+    background-color: brown;
+  }
+  
+  input[type="button"] {
+    width: 140px;
+    margin-left: 40px;
+    display: block;
+  }
