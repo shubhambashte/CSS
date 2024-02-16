@@ -1,0 +1,61 @@
+/* #grade1{
+    background-color: red;
+    height: 200px;
+    background-image: linear-gradient(yellow,green);
+} */
+
+/* #grade1{
+    background-color: red;
+    height: 200px;
+    background-image: linear-gradient(to right, blue, violet);
+} */
+/* #grade1{
+    background-color: red;
+    height: 200px;
+    background-image: linear-gradient(blue , red, yellow);
+} */
+/* #grade1{
+    background-color: red;
+    height: 200px;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+} */
+/* #grade1{
+    height: 200px;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+} */
+/* #grade1 {
+    height: 200px;
+    background-color: red; 
+    background-image: repeating-linear-gradient(red, yellow 10%, blue 20%);
+  }
+  
+  #grade2 {
+    height: 200px;
+    background-color: red; 
+    background-image: repeating-linear-gradient(45deg,red,yellow 7%,blue 10%);
+  }
+  
+  #grade3 {
+    height: 200px;
+    background-color: red; 
+    background-image: repeating-linear-gradient(190deg,red,yellow 7%, blue 10%);
+  }
+  
+  #grade4 {
+    height: 200px;
+    background-color: red;
+    background-image: repeating-linear-gradient(90deg,red,yellow 7%, blue 10%);
+  }
+  
+  #grade5 {
+    height: 200px;
+    background-color: red; 
+    background-image: repeating-linear-gradient(45deg, red 0px, red 10px, red 10px, yellow 10px, yellow 20px);
+  } */
+  #grade1{
+    height: 150px;
+    width: 200px;
+    background-color: burlywood;
+    background-image: repeating-conic-gradient(magenta 0deg 10deg, green 10deg 20deg, goldenrod 20deg 30deg);
+    border-radius: 50%;
+  }
