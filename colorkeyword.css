@@ -1,0 +1,26 @@
+/* body{
+    background-image: none;
+}
+div.transparent{
+    background-color: brown;
+    border: 2px solid black;
+    padding: 15px;
+}
+div.transparent2{
+    background-color: transparent;
+    border: 2px solid black;
+    padding: 15px;
+} */
+
+/* div{
+    color: blue;
+    border: 10px solid currentColor;
+    padding: 20px;
+} */
+div{
+    border: 2px solid blue;
+}
+
+span{
+    border: inherit;
+}
