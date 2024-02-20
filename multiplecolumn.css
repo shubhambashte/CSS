@@ -1,0 +1,10 @@
+.Section {
+    column-count: 4;
+    column-gap: 40px;
+    column-rule-style: double;
+    column-rule-width: 1px;
+    column-rule-color: lightcoral;
+    column-rule: 1px solid lightskyblue;
+    column-width: 100px
+
+}
